@@ -1,0 +1,7 @@
+<TestResults>
+  <Test>
+    <Name>Check Image Presence</Name>
+    <Result>PASS</Result>
+    <Message>PASS: The image with the name 'OpenText%20Login%20Sandbox2.png' is present on the page.</Message>
+  </Test>
+</TestResults>
